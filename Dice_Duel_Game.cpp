@@ -1,27 +1,3 @@
-//-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-// Program: High-Low Dice Duel
-//
-// Process: Simulates rolling two six-sided dice. The user guesses Low (sum 2-6),
-//          Mid (sum 7), or High (sum 8-12). The program displays the roll,
-//          determines the round winner, updates running scores, and repeats
-//          until the user chooses to quit.
-//
-// Results: Displays each roll and round outcome, running score after each
-//          round, and final aggregate results when the session ends.
-//
-// Class: CS2010
-// Section: 1003
-// Term: Spring 2026
-// Author: Jack Burke
-// Date: Feb 12, 2026
-//
-// Reflection:
-//           Difficulty: Determining correct LMH assigning for dice total was tricky 
-//                       at first
-//           Improvement: I could have tested more throughout the process 
-//                        to make sure test cases worked.
-//-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-
 #include <iostream>
 #include <string>
 #include <iomanip>
